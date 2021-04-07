@@ -4,4 +4,5 @@
 
 - Find Pair Sums
 - First Repeating Character
+- Remove Duplicates
 - Depth First Search
